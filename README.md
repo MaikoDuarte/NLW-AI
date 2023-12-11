@@ -1,6 +1,6 @@
 # <h1 align="center" style="font-family:Inter;">NLW AI</h1>
 
-![image](https://github.com/MaikoDuarte/NLW-AI/assets/46424572/0493b3d8-83fb-4367-aadb-2a92032704f9)
+
 
 
 <p align="center">
@@ -13,6 +13,9 @@
 
 </p>
 
+![image](https://github.com/MaikoDuarte/NLW-AI/assets/46424572/0493b3d8-83fb-4367-aadb-2a92032704f9)
+
+## ✨ Tecnologias
 
 Relação de tecnologias apresentada abaixo oferece uma visão do que foi explorado nesta intensa semana de aprendizado na Trilha Mastery.
 
