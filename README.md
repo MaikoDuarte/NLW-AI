@@ -4,8 +4,8 @@
 
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#mailbox_with_no_mail-contatos">Contatos</a>
@@ -14,6 +14,9 @@
 </p>
 
 ![image](https://github.com/MaikoDuarte/NLW-AI/assets/46424572/0493b3d8-83fb-4367-aadb-2a92032704f9)
+
+## 💻 Projeto
+Aplicação que possibilita realizar upload de videos e por meio de IA, criar automaticamente títulos chamativos e descrições com um boa indexação.
 
 ## ✨ Tecnologias
 
@@ -37,8 +40,7 @@ Relação de tecnologias apresentada abaixo oferece uma visão do que foi explor
 
 - [Radix UI Primitives](https://www.radix-ui.com/primitives): Primitivos React sem estilos, acessíveis e de código aberto, ideais para aplicativos da web e sistemas de design de alta qualidade.
 
-## 💻 Projeto
-Aplicação que possibilita realizar upload de videos e por meio de IA, criar automaticamente títulos chamativos e descrições com um boa indexação.
+
 
 
 ## 🚀 Como executar
