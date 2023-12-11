@@ -1,5 +1,6 @@
 # <h1 align="center" style="font-family:Inter;">NLW AI</h1>
-![image](https://github.com/MaikoDuarte/NLW-upload-ai/assets/46424572/dc8b23d6-942d-43d3-a962-4c658d845e70)
+
+![image](https://github.com/MaikoDuarte/NLW-AI/assets/46424572/0493b3d8-83fb-4367-aadb-2a92032704f9)
 
 
 <p align="center">
